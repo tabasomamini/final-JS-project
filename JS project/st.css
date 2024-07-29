@@ -10,8 +10,8 @@ body{
 }
 
 .parent{
-    height: 401px;
-    width: 400px;
+    height: 400px;
+    width: 401px;
     display: grid;
 
     grid-template-columns: 1fr 1fr 1fr ;
