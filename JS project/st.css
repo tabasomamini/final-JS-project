@@ -15,11 +15,11 @@ body{
     display: grid;
 
     grid-template-columns: 1fr 1fr 1fr ;
-    grid-template-rows:  1fr 1fr 2fr ;
+    grid-template-rows:  1fr 1fr 1fr ;
 }
 
 .item{
-    margin: 1px;
+    margin: 2px;
     border-radius: 8px;
     background-color: lightcoral;
 
