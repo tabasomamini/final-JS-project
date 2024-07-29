@@ -11,11 +11,11 @@ body{
 
 .parent{
     height: 400px;
-    width: 401px;
+    width: 400x;
     display: grid;
 
     grid-template-columns: 1fr 1fr 1fr ;
-    grid-template-rows:  1fr 1fr 1fr ;
+    grid-template-rows:  1fr 1fr 2fr ;
 }
 
 .item{
